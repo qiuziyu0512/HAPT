@@ -43,4 +43,4 @@ main.num_epoch = 5
 
 ## Authors
 * Cao Shijia, scarlettcao95@gmail.com
-* Zhong Liangyu, @LEGO999
+* Zhong Liangyu, @LEGO999, zhonglyu00@gmail.com
